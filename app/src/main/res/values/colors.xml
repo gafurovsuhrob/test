@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#41394E</color>
+    <color name="teal_700">#585C73</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavand">#C5B1E8</color>
+    <color name="logo_color">#C1ABEA</color>
+    <color name="buttonbg_day">#939393</color>
+    <color name="buttontxt_day">#212121</color>
+    <color name="buttonbg_night">#212121</color>
+    <color name="buttontxt_night">#D6D6D6</color>
+    <color name="primarycolor">#B4B4B5</color>
+    <color name="focused_true">#C1ABEA</color>
+    <color name="focused_false">#686868</color>
+    <color name="bg_app">#212121</color>
+    <color name="for_day">#212121</color>
+    <color name="for_night">#939393</color>
+    <color name="red">#FF3434</color>
+    <color name="new_bg_btn">#212121</color>
+    <color name="text_color_btn">#D5D5D5</color>
+    <color name="pcolor">#28be99</color>
+</resources>
